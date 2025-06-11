@@ -12,4 +12,17 @@ Pursuing Master's Degree in IT at Frankfurt Univeristy of Applied Sciences.
 I've been in Germany for last 2 years and currently working as self blogger at HASHNODE.
 Also, i've account on LinkedIn, GitHub and Hashnode where i continously post my learning progress on this platforms. Till date, I've learned Networking, Linux and Git Concepts in DevOps. 
 
+Here, I've created a new Branch called "Feature-Update"
 
+Currently i'm learning a concept called "GIT"
+
+I learned how to push date from local to remote platform
+and how to pull from remote to local platform.
+
+some basic commands:
+
+1. git init
+2. git add <filename>
+3. git commit -m <pass a messege>
+4. git push origin master (if you want to push the date from local to remote)
+5. git pull origin master (if you want to pull the date from remote to local)

@@ -26,3 +26,5 @@ some basic commands:
 3. git commit -m <pass a messege>
 4. git push origin master (if you want to push the date from local to remote)
 5. git pull origin master (if you want to pull the date from remote to local)
+
+

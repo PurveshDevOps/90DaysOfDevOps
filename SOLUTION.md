@@ -60,5 +60,3 @@ git status
 git add solution.md
 git commit -m "added solution.md to feature-update"
 git push origin feature-update
-
-

@@ -1,0 +1,7 @@
+Hello there...!! 
+
+we gonna learn about Pull Request (PR)
+Branching stratageies 
+stashing
+cherry-picking
+Rebasing

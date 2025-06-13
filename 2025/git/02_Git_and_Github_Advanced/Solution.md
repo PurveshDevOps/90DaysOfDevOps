@@ -22,3 +22,23 @@ Because sometimes:
 Git Stash is like a **"pause and save for later"** button.
 
 
+📌 **When to Use Git Stash**
+
+Use `git stash` when:
+
+* You're in the **middle of some work**, but need to **pause and switch to something else**.
+* You’re **not ready to save/commit** your changes, but don’t want to lose them.
+* You want to **quickly clean your working directory** to check out another branch or pull new updates.
+
+🔄 **Git Stash Pop vs. Git Stash Apply**
+
+| Command           | What it does                                                                                                                    |
+| ----------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| `git stash apply` | 📥 Applies the stashed changes to your current work, **but keeps the stash** (you can reuse it).                                |
+| `git stash pop`   | 📤 Applies the stashed changes **and deletes them** from the stash (like taking them out of the box and throwing the box away). |
+
+✅ Quick Summary:
+
+* Use `apply` if you might want to **reuse or keep** the stash.
+* Use `pop` if you’re **done with the stash** and don’t need it anymore.
+

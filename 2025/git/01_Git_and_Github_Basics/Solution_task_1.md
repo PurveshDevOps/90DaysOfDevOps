@@ -1,3 +1,7 @@
+![git_basics_task_1_result_3](https://github.com/user-attachments/assets/0b827c60-e6be-4716-812c-7bc261222c61)
+![git_basics_task_1_result](https://github.com/user-attachments/assets/8c85d143-6309-4fce-8b7f-84a0c8432ad3)
+![git_basics_task_1](https://github.com/user-attachments/assets/9e3f5928-a7ac-4492-8320-c13766b821fa)
+![git_basic_task_1_result_2](https://github.com/user-attachments/assets/f3738e3f-df39-4e7b-90b2-026ba02fbfbd)
 
 🚀 **Step-by-Step Solution**  
 

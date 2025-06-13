@@ -1,3 +1,9 @@
+![week-4-git_log](https://github.com/user-attachments/assets/74242d5b-fc34-44e1-a6df-c41ca066775e)
+![week-4-code_4](https://github.com/user-attachments/assets/beb5452e-f2b7-48ba-a7ac-65ab3f67e164)
+![week-4-code_3](https://github.com/user-attachments/assets/a78f5a01-3733-4988-8ad5-fb0cc3571838)
+![week-4-code_2](https://github.com/user-attachments/assets/3ae60837-accc-4ec2-b603-b5128118e05a)
+![week-4-code_1](https://github.com/user-attachments/assets/6997554f-6dbd-481b-a4be-5a2618b0ca20)
+![week-4-challenge-result](https://github.com/user-attachments/assets/aa779904-be06-4a51-80f6-73bd33658a92)
 ** Summarizing the process and the Git commands i used.
 
 1. cd ..

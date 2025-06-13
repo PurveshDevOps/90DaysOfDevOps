@@ -28,3 +28,5 @@ some basic commands:
 5. git pull origin master (if you want to pull the date from remote to local)
 
 
+echo "This is fine"
+

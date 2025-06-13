@@ -1,3 +1,4 @@
+![git_cherry-pick](https://github.com/user-attachments/assets/60548400-a027-4d30-a7ac-b4a7527fb7bc)
 🍒 What is **Cherry-Pick** in Git?
 
 In Git, **cherry-picking** means **you don’t take everything** from another branch — you just **pick one or a few specific changes** that you want.

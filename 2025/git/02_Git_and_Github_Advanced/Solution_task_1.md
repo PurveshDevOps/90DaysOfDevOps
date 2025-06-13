@@ -1,3 +1,5 @@
+![git_advance_task_1_code](https://github.com/user-attachments/assets/a2235197-9569-4e9d-a9dc-4d330ca18a2f)
+![git_advance_task_1](https://github.com/user-attachments/assets/88699eee-2c97-4c12-af6b-68c3863727ab)
 🚀 **Step-by-Step Solution**  
 
 1️⃣ Fork the Repository**  

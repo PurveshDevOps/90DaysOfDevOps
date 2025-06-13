@@ -1,3 +1,4 @@
+![git_stashing_code](https://github.com/user-attachments/assets/cf59e4bf-8788-4998-af1d-b552238350d9)
 
 💡 What is "Stash" in Git?
 

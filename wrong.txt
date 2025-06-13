@@ -4,6 +4,4 @@ this is fine commit
 
 this commit is not fine [wrong, bugg, issue]
 
-this commit is also fine
-
 this is fine commit too

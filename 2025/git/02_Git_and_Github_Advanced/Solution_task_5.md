@@ -1,3 +1,7 @@
+![git_reset_soft](https://github.com/user-attachments/assets/23deffdd-0514-428a-b6a6-9c070d66effa)
+![git_reset_mixed](https://github.com/user-attachments/assets/6d377bbe-8d1c-4d36-a79c-7f2bdd35c0f2)
+![git_reset_hard](https://github.com/user-attachments/assets/2fd3e784-1a23-4fbc-a9fb-7c611610a2cc)
+![git_rebase_code](https://github.com/user-attachments/assets/06ae1d93-56ef-4e58-93fb-cae84806bb7d)
 ### 🔄 What is **Git Rebase**?
 
 **Git Rebase** takes:

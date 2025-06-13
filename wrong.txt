@@ -5,5 +5,3 @@ this is fine commit
 this commit is not fine [wrong, bugg, issue]
 
 this is fine commit too
-
-this is a bugg
